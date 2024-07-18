@@ -1,5 +1,5 @@
 {
-  "name": "@distube/ytdl-core",
+  "name": "@rynxd/ytdl-core",
   "description": "DisTube fork of ytdl-core. YouTube video downloader in pure javascript.",
   "keywords": [
     "youtube",
